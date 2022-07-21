@@ -8,13 +8,18 @@ Note: The game has been created in Ubuntu
 ## Software to be used
 - Python
 ## Command to run the Game
-Double click on the "snakegame" binary file to run the Game.
+Double click on the "snakegame" binary file in codes folder to run the Game.
 
 OR
 
 Open a terminal and run:
 
-```$python3 snakegame.py```
+```$ python3 codes/snakegame.py```
+
+OR
+
+Open a terminal and run:
+```$ ./codes/snakegame```
 ## Features
 1. Randomly appearing Obstacles for every new start which makes it more challenging.
 2. Good Frontend with different colour of fruit, snake, obstacles, background, etc.
