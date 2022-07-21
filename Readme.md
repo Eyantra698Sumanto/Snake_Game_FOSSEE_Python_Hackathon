@@ -4,6 +4,7 @@ This is a Simple Snake Game. The aim of the game is that the snake should eat fr
 ## Operating System
 - Windows OS
 - Ubuntu OS
+
 Note: The game has been created in Ubuntu
 ## Software to be used
 - Python
