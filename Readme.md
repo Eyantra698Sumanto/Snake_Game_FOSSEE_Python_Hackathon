@@ -34,3 +34,6 @@ Open a terminal and run:
 8. Extra points for Big Fruit.
 9. More no. of fruits consumed, more no. of points.
 10. Controlling the snake with increasing speed and unknown obstacles makes it challenging.
+
+## Contributed by:
+Sumanto Kar
