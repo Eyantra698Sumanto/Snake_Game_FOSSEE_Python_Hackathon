@@ -13,6 +13,7 @@ Double click on the "snakegame" binary file to run the Game.
 OR
 
 Open a terminal and run:
+
 ```$python3 snakegame.py```
 ## Features
 1. Randomly appearing Obstacles for every new start which makes it more challenging.
