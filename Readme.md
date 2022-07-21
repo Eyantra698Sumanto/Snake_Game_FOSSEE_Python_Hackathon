@@ -35,5 +35,5 @@ Open a terminal and run:
 9. More no. of fruits consumed, more no. of points.
 10. Controlling the snake with increasing speed and unknown obstacles makes it challenging.
 
-## Contributed by:
+## Contributed by
 Sumanto Kar
