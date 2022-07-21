@@ -7,6 +7,7 @@ This is a Simple Snake Game. The aim of the game is that the snake should eat fr
 Note: The game has been created in Ubuntu
 ## Software to be used
 - Python
+- pygame
 ## Command to run the Game
 Double click on the "snakegame" binary file in codes folder to run the Game.
 
@@ -19,7 +20,9 @@ Open a terminal and run:
 OR
 
 Open a terminal and run:
+
 ```$ ./codes/snakegame```
+
 ## Features
 1. Randomly appearing Obstacles for every new start which makes it more challenging.
 2. Good Frontend with different colour of fruit, snake, obstacles, background, etc.
